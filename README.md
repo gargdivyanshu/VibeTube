@@ -5,7 +5,8 @@ VibeTube is a YouTube clone website that has been developed using ReactJS and Ma
 
 
 ## 🔗 Links
-[![Live Site](https://img.shields.io/badge/live_site-000?style=for-the-badge&logo=ko-fi&logoColor=white)](vibetube.netlify.app)
+[![Live Site](https://img.shields.io/badge/live_site-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vibetube.netify.app)
+
 ## 🛠 Skills
 This Project is made using ReactJS & Material UI
 

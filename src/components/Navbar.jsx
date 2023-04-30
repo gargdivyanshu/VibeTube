@@ -12,7 +12,7 @@ const Navbar = () => (
       {
         window.innerWidth >= 768 && (
           <Typography variant="h4" color="#fff" marginLeft={2} marginTop={1} fontWeight='bold' fontFamily="'Josefin Sans', sans-serif;">
-            VibeFlow
+            VibeTube
           </Typography>
         )
       }
